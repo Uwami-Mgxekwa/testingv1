@@ -334,3 +334,14 @@ Commit 26 at  with random: 12882
 Commit 8 at  with random: 28867 
 Commit 9 at  with random: 60382 
 Commit 27 at  with random: 30003 
+Commit 28 at  with random: 34553 
+Commit 10 at  with random: 16166 
+Commit 29 at  with random: 17929 
+Commit 11 at  with random: 12089 
+Commit 30 at  with random: 82402 
+Commit 12 at  with random: 67153 
+Commit 31 at  with random: 10216 
+Commit 13 at  with random: 21915 
+Commit 32 at  with random: 25836 
+Commit 14 at  with random: 36171 
+Commit 33 at  with random: 15028 
