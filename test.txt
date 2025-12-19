@@ -360,3 +360,9 @@ Commit 21 at  with random: 26950
 Commit 39 at  with random: 61041 
 Commit 22 at  with random: 14541 
 Commit 40 at  with random: 23498 
+Commit 23 at  with random: 25691 
+Commit 41 at  with random: 79813 
+Commit 24 at  with random: 16389 
+Commit 42 at  with random: 23854 
+Commit 25 at  with random: 13172 
+Commit 43 at  with random: 27508 
