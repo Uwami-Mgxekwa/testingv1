@@ -352,3 +352,9 @@ Commit 35 at  with random: 27711
 Commit 17 at  with random: 66451 
 Commit 18 at  with random: 15548 
 Commit 36 at  with random: 20609 
+Commit 19 at  with random: 22427 
+Commit 37 at  with random: 17782 
+Commit 20 at  with random: 20188 
+Commit 38 at  with random: 30275 
+Commit 21 at  with random: 26950 
+Commit 39 at  with random: 61041 
