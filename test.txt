@@ -327,3 +327,8 @@ Commit 4 at  with random: 20691
 Commit 23 at  with random: 32553 
 Commit 5 at  with random: 10246 
 Commit 24 at  with random: 25717 
+Commit 6 at  with random: 26615 
+Commit 25 at  with random: 88241 
+Commit 7 at  with random: 28767 
+Commit 26 at  with random: 12882 
+Commit 8 at  with random: 28867 
