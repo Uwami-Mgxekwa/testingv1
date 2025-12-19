@@ -401,3 +401,6 @@ Commit 59 at  with random: 28282
 Commit 42 at  with random: 25521 
 Commit 60 at  with random: 23105 
 Commit 43 at  with random: 78981 
+Commit 61 at  with random: 46224 
+Commit 44 at  with random: 32066 
+Commit 62 at  with random: 32539 
